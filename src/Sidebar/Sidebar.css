@@ -1,0 +1,51 @@
+.bigbox{
+  display: flex;
+}
+.sidebox{
+    border: 1px solid grey;
+    background-color: whitesmoke; 
+}
+.lamadmin{
+    padding: 15.5px 70px;
+    color: blueviolet;
+    font-weight: 600;
+}
+.line{
+    border: 1px solid grey;
+}
+.main{
+    color: grey;
+}
+.dashboardandlogo,.userandlogo,.productsandlogo,.statsandicon,.systemandicon,.logoutandlogo,.profileandlogo{
+    display: flex;
+    align-items: center;
+  gap: 20px;
+  padding: 10px;
+}
+.dashboardandlogo:hover,.userandlogo:hover,.productsandlogo:hover,.statsandicon:hover,.systemandicon:hover,.logoutandlogo:hover,.profileandlogo:hover{
+  color: rgb(95, 79, 110);
+  cursor: pointer;
+}
+.boxicon,.usericon{
+    color: blueviolet;
+}
+.blackandwhite{
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+.black{
+    height: 40px;
+    width: 40px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+.white{
+    height: 40px;
+    width: 40px;  
+    border: 2px solid pink; 
+    border-radius: 50%;
+}
+.black:hover,.white:hover{
+    cursor: pointer;
+}

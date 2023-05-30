@@ -1,0 +1,78 @@
+.bigbox3{
+  margin: 20px;
+  border: none;
+  box-shadow: 10px 10px 5px #aaaaaa;
+  background-color: whitesmoke;
+width: 400px;
+height: 450px;
+border-radius: 10px;
+}
+.bigbox3:hover{
+    background-color: rgb(95, 79, 110);;
+}
+.bigbox3bhitra{
+    text-align: center;
+    color: grey;
+
+}
+.totalrevenueandicon{
+    display: flex;
+align-items: center;
+padding: 15px;
+gap: 200px;
+justify-content: space-between;
+font-weight: 600;
+}
+.seventyper{
+    width: 100px;
+    height: 100px;
+    /* background-color: black; */
+}
+.totalsales{
+padding: 20px;
+/* background-color: red; */
+color: grey;
+font-weight: 600;
+}
+.dollor420{
+    font-size: 34px;
+    align-items: center;
+    color: black;
+}
+.thyathya{
+    align-items: center;
+    font-weight: 600;
+    
+}
+.thyathyadabba{
+    padding: 20px;
+}
+.threetexts{
+    display: flex;
+    justify-content: space-around;
+    font-weight: 600;
+}
+.threedollors{
+    display: flex;
+    align-items: center;
+    padding:10px;
+    gap: 5px;
+    font-weight: 600;
+}
+.threedollorsb{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+   
+}
+.threedollors1{
+    display: flex;
+    align-items: center;
+    padding:10px;
+    gap: 5px;
+    color: green;
+}
+.threedots:hover{
+cursor: pointer;
+color: blueviolet;
+}

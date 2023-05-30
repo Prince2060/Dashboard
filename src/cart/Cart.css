@@ -1,0 +1,90 @@
+.mainbox{
+display: flex;
+justify-content: space-between;
+padding: 20px;
+flex-wrap: wrap;
+}
+.whitebox{
+border-radius: 8px;
+background-color: whitesmoke;
+width: 250px;
+box-shadow: 10px 10px 5px #aaaaaa;
+padding: 20px;
+}
+.whitebox:hover{
+background-color: rgb(95, 79, 110);
+}
+.usersandicons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+}
+.iconbox{
+    display: flex;
+    gap: 2px;
+    color: green;
+}
+.downarrow{
+    padding: 5px;
+    color: green;
+}
+.userss{
+    color: grey;
+    font-weight: bolder;
+}
+.sevenhundred{
+    font-size: 34px;
+    margin: 10px; 
+}
+.seeuserandicon{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+    gap: 100px;
+    /* background-color: green; */
+}
+.seealluser{
+    text-decoration: underline;
+}
+
+.ratoicon{
+    padding: 10px;
+    color: rgb(141, 11, 11);
+}
+.iconbox1{
+    display: flex;
+    gap: 2px;
+    color: red;
+}
+.backgroundbox1{
+    border: 1px solid pink;
+    border-radius: 8px;
+    background-color: pink;
+}
+.backgroundbox2{
+    border-radius: 8px;
+    background-color: rgb(238, 166, 71);
+}
+.backgroundbox3{
+    border-radius: 8px;
+    background-color: rgb(115, 198, 115);
+}
+.backgroundbox4{
+    border-radius: 8px;
+    background-color: rgb(252, 188, 252);
+}
+.downarrow1{
+    padding: 5px;
+}
+.yellowicon{
+    color: rgb(231, 209, 8);
+    padding: 10px;
+}
+.dollor{
+    padding: 12px;
+}
+.pink{
+    padding: 10px;
+}
