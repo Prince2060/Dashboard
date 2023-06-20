@@ -1,0 +1,64 @@
+.mainbhado{
+    /* flex: auto; */
+}
+.bhado{
+    display: flex;
+    justify-content: space-between;
+}
+.headerbox1{
+    align-items: center;
+    padding: 11.7px;
+}
+.bigb{
+    padding:15px;
+    border: none; 
+}
+.inputb{
+ outline: none;
+ border: none;
+}
+.bigb1{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+.globeandenglish{
+    display: flex;
+align-items: center; 
+gap: 5px;
+
+   
+}
+.image{
+    height: 30px;
+    width: 30px;
+   border-radius: 50%;
+}
+.line{
+    border: 1px solid grey;
+}
+.english{
+    padding-bottom: 2px;
+}
+.hover:hover{
+    cursor: pointer;
+    color: rgb(123, 6, 233);
+}
+.onetext{
+    background-color: red;
+    border-radius: 100%;
+    height: 12px;
+    width: 12px;
+    justify-content: center;
+align-items: center;
+    display: flex;
+    font-size: 9.5px;
+    color: white;
+    position: absolute;
+    top: -3px;
+    right: -2px;
+}
+.bell1{
+    position: relative;
+}
+
